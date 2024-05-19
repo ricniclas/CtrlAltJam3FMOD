@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{0e7a648f-1c1e-4e89-8c62-534eaa901a64}">
+		<property name="assetPath">
+			<value>SFX/BoxParticleSound.wav</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>32</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>16</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{241476d4-84e5-45aa-90d6-34b7d4b4bfe0}</destination>
+		</relationship>
+	</object>
+</objects>

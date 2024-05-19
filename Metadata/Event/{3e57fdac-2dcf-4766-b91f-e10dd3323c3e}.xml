@@ -60,7 +60,7 @@
 	<object class="MarkerTrack" id="{f0dcddc8-c32c-4e6b-86f6-a1463905e069}" />
 	<object class="GroupTrack" id="{bf44d07c-a57a-43b0-85f3-b49ebe54b33b}">
 		<relationship name="modules">
-			<destination>{f3722541-9fc6-4c16-978d-0a98a54ddcc6}</destination>
+			<destination>{dd165c34-6c07-4b91-abc7-e1f8c1992cf4}</destination>
 		</relationship>
 		<relationship name="mixerGroup">
 			<destination>{7a9c0452-4b81-4584-bfe0-7a2ca1c09673}</destination>
@@ -68,7 +68,7 @@
 	</object>
 	<object class="Timeline" id="{aa2ae07f-c918-4a5d-afc3-ba4a984c991c}">
 		<relationship name="modules">
-			<destination>{f3722541-9fc6-4c16-978d-0a98a54ddcc6}</destination>
+			<destination>{dd165c34-6c07-4b91-abc7-e1f8c1992cf4}</destination>
 		</relationship>
 		<relationship name="markers">
 			<destination>{845d4710-de88-45ae-bc69-582531831d8a}</destination>
@@ -91,17 +91,17 @@
 		</relationship>
 	</object>
 	<object class="MixerBusPanner" id="{cb6e44b3-7dfc-4a2e-b26d-8b00264a1839}" />
-	<object class="SingleSound" id="{f3722541-9fc6-4c16-978d-0a98a54ddcc6}">
+	<object class="SingleSound" id="{dd165c34-6c07-4b91-abc7-e1f8c1992cf4}">
 		<property name="length">
-			<value>38.399999999999999</value>
+			<value>229.53795918367348</value>
 		</property>
 		<relationship name="audioFile">
-			<destination>{ca89b963-260f-4958-9778-0346f2b82e04}</destination>
+			<destination>{a4f10301-41a0-45b9-b47d-3cb45ce5959a}</destination>
 		</relationship>
 	</object>
 	<object class="EventMixerGroup" id="{7a9c0452-4b81-4584-bfe0-7a2ca1c09673}">
 		<property name="volume">
-			<value>-2.5</value>
+			<value>-9.5</value>
 		</property>
 		<property name="name">
 			<value>Audio 1</value>
@@ -118,10 +118,10 @@
 	</object>
 	<object class="LoopRegion" id="{845d4710-de88-45ae-bc69-582531831d8a}">
 		<property name="position">
-			<value>0</value>
+			<value>40.490000000000002</value>
 		</property>
 		<property name="length">
-			<value>38.399999999999999</value>
+			<value>181.88999999999999</value>
 		</property>
 		<relationship name="timeline">
 			<destination>{aa2ae07f-c918-4a5d-afc3-ba4a984c991c}</destination>
